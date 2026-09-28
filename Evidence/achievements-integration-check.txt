@@ -1,0 +1,12 @@
+Result: PASS
+Unity: 6000.3.10f1
+Delivered: 6
+Missed: 0
+Score: 600
+Exceptions/errors: 0
+Save/load roundtrip: True
+Captured frames: 177
+Career persistence: True
+Stickers collected: 7
+Time scale: 3
+Scripted driver bypasses keyboard. This is not a performance benchmark.

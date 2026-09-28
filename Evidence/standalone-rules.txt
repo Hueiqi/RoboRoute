@@ -1,0 +1,1 @@
+PASS: seven standalone C# mission assertions via PowerShell Add-Type. Unity integration checked separately.
